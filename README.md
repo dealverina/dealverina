@@ -8,4 +8,5 @@
 ![JS](https://img.shields.io/badge/JavaScript-e3f10f?&logo=JavaScript&logoColor=black&logoWidth=30&style=for-the-badge)
 
 # Framework
-![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=10&style=for-the-badge)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=30)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=30)
