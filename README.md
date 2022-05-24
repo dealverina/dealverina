@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * 🧠  I'm currently learning ReactJs
-* 🤝  I'm open to collaborating on ReactJs project
+* 🤝  I'm open to collaborate on ReactJs project
 * ✉️  You can contact me at [dealverina@gmail.com](mailto:dealverina@gmail.com)
 
 ### Skills
