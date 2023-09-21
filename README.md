@@ -1,6 +1,6 @@
 # 👩‍💻 Dea Alverina • Front-End Developer
 
-Hello, I'm Dea Alverina, a passionate and experienced Front-End Developer in [ReactJS](https://reactjs.org) since 2021.
+Hello, I'm Dea Alverina, a passionate and experienced Front-End Developer in [ReactJS](https://reactjs.org) since 2021. Proven ability to efficiently collaborate with multidisciplinary teams and deliver projects on-time, while continuously learning and adapting to new technologies and industry trends. Passionate about crafting seamless web experiences that enhance user satisfaction.
 
 ### • Languages
 
