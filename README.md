@@ -1,6 +1,6 @@
-# 👩‍💻 Dea Alverina • Front-End Developer
+# 👩‍💻 Dea Alverina
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealverina&label=Profile%20views&color=0e75b6&style=flat" alt="dealverina" /> </p>
-👋 Hi, I’m Dea — a web developer with a strong focus on user-friendly interfaces and clean code. I love turning ideas into interactive web experiences using modern tools like React, TypeScript, and Tailwind CSS.
+👋 Hi, I’m Dea — a front-end developer with a strong focus on user-friendly interfaces and clean code. I love turning ideas into interactive web experiences using modern tools like React, TypeScript, and Tailwind CSS.
 
 ### • Technologies
 
