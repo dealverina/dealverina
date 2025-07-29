@@ -1,6 +1,6 @@
 # 👩‍💻 Dea Alverina
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealverina&label=Profile%20views&color=0e75b6&style=flat" alt="dealverina" /> </p>
-👋 Hi, I’m Dea — a front-end developer with a strong focus on user-friendly interfaces and clean code. I love turning ideas into interactive web experiences using modern tools like React, TypeScript, and Tailwind CSS.
+I started my journey in tech as a Front-End Developer about 6 years ago. I enjoy building user-friendly apps and keeping my code clean and simple. I'm passionate about creating smooth web experiences that make people's lives just a little bit easier.
 
 ### • Technologies
 
@@ -14,4 +14,5 @@
 ### • Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dealvrn) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/466894730471669771) 
 
