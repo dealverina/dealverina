@@ -1,6 +1,6 @@
 # 👩‍💻 Dea Alverina
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dealverina&label=Profile%20views&color=0e75b6&style=flat" alt="dealverina" /> </p>
-I started my journey in tech as a Front-End Developer about 6 years ago. I enjoy building user-friendly apps and keeping my code clean and simple. I'm passionate about creating smooth web experiences that make people's lives just a little bit easier.
+I started my journey in tech as a Front-End Developer. I enjoy building user-friendly apps and keeping my code clean and simple. I'm passionate about creating smooth web experiences that make people's lives just a little bit easier.
 
 ### • Technologies
 
